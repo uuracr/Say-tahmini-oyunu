@@ -19,7 +19,7 @@ for a in range(hak):
         max = tahmin - 1
     if a == hak - 1:
         print(f"Üzgünüm, hakkın bitti. Tutulan sayı {tutulan} idi.")
-        # print(f"Üzgünüm, hakkın bitti. Tutulan sayı {tutulan} idi.")
+        
 
     
     
